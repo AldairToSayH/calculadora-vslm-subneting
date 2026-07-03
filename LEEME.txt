@@ -1,0 +1,20 @@
+CALCULADORA DE SUBNETTING VLSM
+==============================
+
+Para abrirla en Windows, ejecuta INICIAR_PROGRAMA.bat.
+
+Uso
+---
+1. Ingresa la red principal. Ejemplo: 172.19.0.0/16.
+2. Agrega el nombre y los hosts de cada red o VLAN.
+3. Pulsa Calcular.
+
+La tabla muestra solamente:
+- IP de red y prefijo.
+- Primera IP utilizable.
+- Última IP utilizable.
+- Máscara de subred.
+- Broadcast.
+
+El programa utiliza VLSM y asigna automáticamente las redes de mayor a menor.
+No requiere instalar librerías adicionales.
