@@ -15,6 +15,7 @@ La tabla muestra solamente:
 - Última IP utilizable.
 - Máscara de subred.
 - Broadcast.
+- Bueno para el curso de redes y enrutamiento.
 
 El programa utiliza VLSM y asigna automáticamente las redes de mayor a menor.
 No requiere instalar librerías adicionales.
